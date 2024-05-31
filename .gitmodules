@@ -1,0 +1,9 @@
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:fsp-kod-mira/gateway.git
+[submodule "auth"]
+	path = auth
+	url = git@github.com:fsp-kod-mira/auth.git
+[submodule "object-storage"]
+	path = object-storage
+	url = git@github.com:fsp-kod-mira/object-storage.git
