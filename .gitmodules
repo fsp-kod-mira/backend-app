@@ -7,3 +7,6 @@
 [submodule "object-storage"]
 	path = object-storage
 	url = git@github.com:fsp-kod-mira/object-storage.git
+[submodule "features"]
+	path = features
+	url = git@github.com:fsp-kod-mira/features.git
