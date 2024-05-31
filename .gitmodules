@@ -10,3 +10,9 @@
 [submodule "features"]
 	path = features
 	url = git@github.com:fsp-kod-mira/features.git
+[submodule "templates"]
+	path = templates
+	url = git@github.com:fsp-kod-mira/templates.git
+[submodule "cv"]
+	path = cv
+	url = git@github.com:fsp-kod-mira/cv.git

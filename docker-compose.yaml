@@ -4,3 +4,5 @@ include:
   - auth/docker-compose.yaml
   - gateway/docker-compose.yaml
   - object-storage/docker-compose.yaml
+  - cv/docker-compose.yaml
+  - features/docker-compose.yml
