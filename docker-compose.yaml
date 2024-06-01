@@ -7,3 +7,4 @@ include:
   - cv/docker-compose.yaml
   - features/docker-compose.yml
   - templates/docker-compose.yml
+  - csv/docker-compose.yml

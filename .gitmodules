@@ -19,3 +19,6 @@
 [submodule "document_parser"]
 	path = document_parser
 	url = git@github.com:fsp-kod-mira/document_parser.git
+[submodule "csv"]
+	path = csv
+	url = git@github.com:fsp-kod-mira/csv.git
