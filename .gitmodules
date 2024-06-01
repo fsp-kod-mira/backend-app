@@ -16,3 +16,6 @@
 [submodule "cv"]
 	path = cv
 	url = git@github.com:fsp-kod-mira/cv.git
+[submodule "document_parser"]
+	path = document_parser
+	url = git@github.com:fsp-kod-mira/document_parser.git
