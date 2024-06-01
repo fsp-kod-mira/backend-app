@@ -8,3 +8,4 @@ include:
   - features/docker-compose.yml
   - templates/docker-compose.yml
   - csv/docker-compose.yml
+  - document_parser/docker-compose.yml
