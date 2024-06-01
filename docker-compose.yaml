@@ -9,3 +9,4 @@ include:
   - templates/docker-compose.yml
   - csv/docker-compose.yml
   - document_parser/docker-compose.yml
+  - parser/docker-compose.yml

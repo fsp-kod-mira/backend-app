@@ -22,3 +22,6 @@
 [submodule "csv"]
 	path = csv
 	url = git@github.com:fsp-kod-mira/csv.git
+[submodule "parser"]
+	path = parser
+	url = git@github.com:fsp-kod-mira/parser.git
