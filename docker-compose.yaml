@@ -1,8 +1,9 @@
 version: '4.5'
 
 include:
-  - auth/docker-compose.yaml
-  - gateway/docker-compose.yaml
-  - object-storage/docker-compose.yaml
+  - auth/docker-compose.yaml                # 5252
+  - gateway/docker-compose.yaml             # 8080
+  - object-storage/docker-compose.yaml      # 5250
   - cv/docker-compose.yaml
   - features/docker-compose.yml
+  - templates/docker-compose.yml
